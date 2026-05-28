@@ -83,7 +83,7 @@ Dokumentation: Nutzen Sie die gleiche HTML-Seite (unter der Diskussion) wie zur 
 
 2) Fachlich: Erläutern Sie Ihre Implementierung der Logik und alles, was für ihre Lösung wichtig ist (Ansatz, Resultate, Quellen, etc.)
 
-[Lösung](https://lenkuep.github.io/THB-Deep_Learning/reegression_ffnn/)
+[Lösung](https://lenkuep.github.io/THB-Deep_Learning/regression_ffnn/)
 
 ## EA 3 - Language Model mit LSTM
 
