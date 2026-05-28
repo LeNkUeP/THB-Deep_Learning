@@ -1,5 +1,7 @@
 This repo consists of submission task for the university module "Deep Learning". Web applications were created in which ai models and classifications were studied. Main purpose of the module was to understand these models, how to train, test, evaulate and how to improve results.
 
+![](/StartPage/regression.png)
+
 ## EA 1 - Bilderkennung mit ml5
 
 Erweitern Sie das ml5  Image Classification Tutorial so, dass ein Nutzer beliebige Bilder klassifizieren kann. Sie verwenden dazu wie im Tutorial ein bestehendes, vor-trainiertes Model. Sie müssen also nichts selber trainieren/anlernen. 
